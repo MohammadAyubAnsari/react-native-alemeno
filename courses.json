@@ -1,0 +1,69 @@
+{
+  "courses": {
+    "-NikJ52Qhpun-5GjOHiT": {
+      "DueDate": "13/11/2023",
+      "Progress": 30,
+      "courseDuration": "6weeks",
+      "description": "Introduction to React Native",
+      "enrollmentStatus": "Open",
+      "instructor": "Sam",
+      "location": "Online",
+      "name": "React Native",
+      "prerequisites": "'Basic JavaScript knowledge', 'Familiarity with React'",
+      "schedule": "Mondays and Saturdays,8PM to 10PM",
+      "syllabus": "{       week: 1,       topic: 'Introduction to React Native',       content: 'Overview of React Native, setting up your development environment.' }, {       week: 2,       topic: 'Building Your First App',       content: 'Creating a simple mobile app using React Native components.'"
+    },
+    "-NikPlGSsxyEm2RINOSq": {
+      "DueDate": "21/11/2023",
+      "Progress": 50,
+      "courseDuration": "12 weeks",
+      "description": "Introduction to React",
+      "enrollmentStatus": "Open",
+      "instructor": "John",
+      "location": "Online",
+      "name": "React",
+      "prerequisites": "javascript",
+      "schedule": "Mondays and Wednesdays,6PM to 10PM",
+      "syllabus": "{       week: 1,       topic: 'Introduction to React ',       content: 'Overview of React , setting up your development environment.' }, {       week: 2,       topic: 'Building Your First App',       content: 'Creating a simple Web app using React  components.'"
+    },
+    "-Nin_yF-Zfjs769TbeUt": {
+      "DueDate": "17/11/2023",
+      "Progress": 70,
+      "courseDuration": "9 weeks",
+      "description": "Introduction to javascript",
+      "enrollmentStatus": "Open",
+      "instructor": "Ana",
+      "location": "Online",
+      "name": "Javascript",
+      "prerequisites": "None",
+      "schedule": "Tuesdays and Thursdays,6PM to 10PM",
+      "syllabus": "{       week: 1,       topic: 'Introduction to javascript ',       content: 'Overview of javascript ' }, {       week: 2,       topic: 'Building Your First App',       content: 'Creating a simple Web app using javascript.'"
+    },
+    "-Nin_yF-Zfjs769TbmLn": {
+      "DueDate": "24/11/2023",
+      "Progress": 10,
+      "courseDuration": "3 weeks",
+      "description": "Introduction to Node",
+      "enrollmentStatus": "Closed",
+      "instructor": "Ema",
+      "location": "Online",
+      "name": "Node",
+      "prerequisites": "javascript",
+      "schedule": "Tuesdays and Thursdays,6PM to 10PM",
+      "syllabus": "{       week: 1,       topic: 'Introduction to Nodejs ',       content: 'Overview of Nodejs ' }, {       week: 2,       topic: 'Building Your First server',       content: 'Creating a simple server set up using Node.'"
+    },
+    "-Nin_yF-Zfjs769TbmFr": {
+      "DueDate": "24/11/2023",
+      "Progress": 10,
+      "courseDuration": "3 weeks",
+      "description": "Introduction to Express",
+      "enrollmentStatus": "Progress",
+      "instructor": "Ema",
+      "location": "Online",
+      "name": "Express",
+      "prerequisites": "javascript",
+      "schedule": "Mondays and Thursdays,6PM to 9PM",
+      "syllabus": "{       week: 1,       topic: 'Introduction to Expressjs ',       content: 'Overview of Expressjs ' }, {       week: 2,       topic: 'Building Your First server',       content: 'Creating a simple server set up using Expressjs.'"
+    }
+  }
+}
